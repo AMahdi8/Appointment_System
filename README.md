@@ -19,7 +19,7 @@ A comprehensive appointment scheduling system for clinics and doctors, built wit
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/appointment-system.git
+   git clone https://github.com/AMahdi8/appointment-system.git
    cd appointment-system
 
 2. Create and activate a virtual environment:
